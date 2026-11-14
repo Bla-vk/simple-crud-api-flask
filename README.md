@@ -11,7 +11,7 @@ Built with Flask and Flask-SQLAlchemy, packaged with Docker.
 - Filter items by location: `/api/v1/items/?location=<id>`
 - Location names are unique; deleting a location deletes its items
 - A `/health/` endpoint for load balancer and container health checks
-- 47 automated tests (pytest)
+- 17 automated tests (pytest)
 
 ## Endpoints
 
