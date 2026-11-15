@@ -4,6 +4,7 @@
 
 A REST API for tracking **items** and the **locations** they are stored in.
 Built with Flask and Flask-SQLAlchemy, packaged with Docker.
+For a Django vs Flask write-up, see [COMPARISON.md](COMPARISON.md).
 
 - Full Create / Read / Update / Delete for items and locations
 - Versioned paths under `/api/v1/`
